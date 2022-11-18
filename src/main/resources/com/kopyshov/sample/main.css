@@ -1,0 +1,15 @@
+.button:hover {
+    -fx-border-color:green;
+}
+.check-box .box {
+    -fx-background-color: blue;
+}
+
+.check-box:selected .mark {
+    -fx-background-color: black;
+}
+
+.check-box:selected .box {
+    -fx-background-color: black;
+}
+
